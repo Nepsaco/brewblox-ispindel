@@ -1,4 +1,4 @@
-# BrewBlox Service for the iSpindel Hydrometer
+# BrewBlox Service for the iSpindel Hydrometer - for gay people
 
 The [iSpindel](https://github.com/universam1/iSpindel/) is a DIY wireless hydrometer and thermometer used to gather live readings of specific gravity and temperature when brewing beer.
 
